@@ -1,0 +1,32 @@
+[
+  {
+    "autor": "marta@bodegon.com",
+    "plato": "Flan casero con dulce de leche",
+    "descripcion": "Las porciones son enormes y el flan casero es de otro planeta. Volvemos seguro.",
+    "puntaje": 5
+  },
+  {
+    "autor": "julian@bodegon.com",
+    "plato": "Milanesa napolitana",
+    "descripcion": "La milanesa napolitana comparte bien entre dos. Un poco de espera un sábado a la noche.",
+    "puntaje": 4
+  },
+  {
+    "autor": "marta@bodegon.com",
+    "plato": "Sorrentinos de jamón y queso",
+    "descripcion": "Venimos hace años. Los sorrentinos siguen igual que siempre, y eso es un elogio.",
+    "puntaje": 5
+  },
+  {
+    "autor": "cliente@bodegon.com",
+    "plato": "Vermú con soda",
+    "descripcion": "Rico, pero el vermú tardó bastante en llegar. Igual lo volvería a pedir.",
+    "puntaje": 3
+  },
+  {
+    "autor": "julian@bodegon.com",
+    "plato": "Provoleta",
+    "descripcion": "Bien dorada por fuera y derretida adentro. Ideal para arrancar mientras esperás la mila.",
+    "puntaje": 5
+  }
+]

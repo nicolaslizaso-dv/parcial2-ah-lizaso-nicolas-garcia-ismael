@@ -1,0 +1,26 @@
+{
+  "name": "bodegon-api",
+  "version": "2.0.0",
+  "description": "Parcial 2 - Aplicaciones Híbridas: API REST del Bodegón Don Ramón (usuarios, platos y reseñas)",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon --exec \"node --env-file=.env\" main.js",
+    "start": "node --env-file=.env main.js",
+    "seed": "node --env-file=.env seed.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongodb": "^7.6.0",
+    "multer": "^2.5.0",
+    "sharp": "^0.35.5",
+    "zod": "^4.6.7"
+  }
+}
